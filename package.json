@@ -1,0 +1,13 @@
+{
+	"name":"highscoreREST",
+	"main":"server.js",
+	"version":"0.0.1",
+	"author":"Juho Roivas 1201116",
+	"repository": "",
+	"dependencies":{
+		"express": "^4.14.0",
+		"body-parser": "^1.15.2",
+		"mysql": "^2.11.1"
+	}
+	
+}
